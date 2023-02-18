@@ -1,12 +1,12 @@
 /* ==========================================================================
 Color definitions to be used for the differnt elements
 ========================================================================== */
-$primary: #F39200;
-$secondary: #4FC1EA;
-$accent: #00efb7;
-$background: #fff;
-$navbar: #fff;
-$title: #444F60;
+$primary: #FFD700;
+$secondary: #7A197D;
+$accent: #0DC9FF;
+$background: #000;
+$navbar: #000;
+$title: #CCC;
 $subtitle: darken(adjust-hue($background, 200), 33);
 $light-title: lighten($title, 35);
 $border: darken($background, 7.1);
